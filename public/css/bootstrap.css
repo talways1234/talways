@@ -1082,8 +1082,8 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px; */
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
@@ -1116,6 +1116,7 @@ img {
   vertical-align: middle;
 }
 .img-responsive,
+.intro
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
@@ -4179,6 +4180,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
 }
+.navbar-header .logo2 img{
+  height: 50px;
+  width: 170px;
+}
 .navbar-collapse {
   padding-right: 15px;
   padding-left: 15px;
@@ -4274,9 +4279,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
-  font-size: 18px;
-  line-height: 20px;
+  padding: 5px 0px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -4284,6 +4287,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand > img {
   display: block;
+  position: relative;
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
@@ -5990,7 +5994,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-size: 12px;
   font-style: normal;
   font-weight: normal;
@@ -6109,7 +6113,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-size: 14px;
   font-style: normal;
   font-weight: normal;

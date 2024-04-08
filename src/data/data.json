@@ -1,21 +1,23 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Connecting Talents",
+    "title2": "With",
+    "title3": "Oppurtunities",
+    "paragraph": "We are an innovative executive search professional recruitment company unlike any other"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Talways is a pioneering force in talent acquisition, driven by avisionary approach and a steadfast commitment to excellence. With a rich history of delivering top-tier recruitment solutions,we've earned the trust and loyalty of leading organizations worldwide. Embracing a culture of innovation and continuous improvement, we set new benchmarks in the industry,ensuring client satisfaction remains our top priority. Our relentless focus on pushing boundaries allows us to make a lasting impact and shape the future of recruitment solutions.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Trustworthy",
+      "Understanding",
+      "Advanced sourcing",
+      "Expert industry knowledge"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Personalized approach",
+      "Timely results",
+      "Proven track record",
+      "Long-term partnerships"
     ]
   },
   "Gallery": [
@@ -67,66 +69,66 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-book",
+      "name": "Talent Sourcing",
+      "text": "Identifying and attracting qualified candidates through various channels such as job boards, social media platforms, networking events, and professional associations"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-file",
+      "name": "Candidate Screening",
+      "text": " Reviewing resumes, conducting initial interviews, and assessing candidates' skills, experience, and qualifications to determine their suitability for specific roles."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-phone",
+      "name": "Onboarding Support",
+      "text": "Providing onboarding support to candidates during the transition period, including orientation sessions, access to company resources, and ongoing communication to ensure a smooth integration into the organization"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-trophy",
+      "name": "Talent Mapping",
+      "text": "Providing talent mapping services to help clients understand the competitive landscape, identify key talent pools, and develop strategic recruitment strategies for future hiring needs."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mortar-board",
+      "name": "Market Intelligence",
+      "text": "Providing clients with market intelligence and industry insights related to talent trends, compensation benchmarks, competitor analysis, and recruitment best practices."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-group",
+      "name": "Candidate Relationship Management",
+      "text": "Building and maintaining relationships with candidates, including passive candidates, to create talent pipelines and proactively address client's hiring needs."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I can't thank Talways enough for their exceptional service. They took the time to understand our unique needs and delivered quality candidates that exceeded our expectations. Truly a trusted partner in talent acquisition!\"",
+      "name": "Rahul Gupta"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"From start to finish, Talways provided top-notch support and guidance. Their attention to detail and commitment to finding the perfect fit for our team was impressive. We look forward to working with them again in the future.\"",
+      "name": "Fathima Ahmed"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"We were struggling to find qualified candidates for a critical role until we partnered with Talways. Their industry knowledge and extensive network helped us find the perfect candidate in record time. We couldn't be happier with the results!\"",
+      "name": "Amir Khan"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I was skeptical about working with a recruitment agency, but Talways proved me wrong. Their team went above and beyond to understand my career goals and match me with the perfect opportunity. I'm grateful for their support and highly recommend their services.\"",
+      "name": "Priya Sharma"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Thanks to Talways, we were able to streamline our hiring process and find top talent that aligns with our company culture. Their professionalism and dedication made the entire experience seamless. We're thrilled with the results!\"",
+      "name": "Ahmed Al-Mansoori"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I've worked with several recruitment agencies in the past, but none compare to the level of service provided by Talways. Their team's expertise, responsiveness, and attention to detail set them apart. I wouldn't hesitate to recommend them to anyone seeking top talent.\"",
+      "name": "Ananya Patel"
     }
   ],
   "Team": [
@@ -152,33 +154,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Al Tawoon, Opp Safari Hypermarket, Salwa road, Old Murra, Doha, Qatar",
+    "phone": "+974 5516 6134",
+    "email": "Contact@talways.co",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-building",
+      "title": "Industries",
+      "text": "Our expertise in focus industry sectors is based on a better understanding of industry dynamics & evolving trends"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-gear",
+      "title": "Functions",
+      "text": "Our consultants specialize in a diverse array of functions, ensuring expert guidance tailored to your unique organizational needs"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Diversity & Inclusion",
+      "text": "The richer the diversity and inclusion, th more productive, profitable, and sustainable the business"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-search",
+      "title": "Assessment and Selection",
+      "text": "Specializing in designing and executing assessment tools to gauge candidates' skills, competencies, and cultural alignment for efficient hiring decisions."
     }
   ]
 }
